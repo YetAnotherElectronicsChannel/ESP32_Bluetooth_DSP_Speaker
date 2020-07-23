@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/esp-idf/examples/bluetooth/bluedroid/classic_bt/a2dp_sink_dsp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
